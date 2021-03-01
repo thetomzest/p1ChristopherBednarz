@@ -23,7 +23,7 @@ The most common usage of a microwave is to heat up food for a certain amount of 
 
 <img src="sketchinterface.jpg" alt="sketchinterface" width="400"/>
 
-For the new design, it will be very simple, only containing a numpad, start button, stop button, and a power selector, along with a screen displaying the time. This keeps all superfluous functions to a minimum while making sure that the main function of heating food is straight forward and works as the user would expect.
+For the new design, it will be very simple, only containing a numpad, start button, stop button, a power selector, timer, and clock set, along with a screen displaying the time. By keeping the design to the bare essentials, this keeps all superfluous functions to a minimum while making sure that the main function of heating food is straight forward and works as the user would expect.
 
 <img src="newinterface.gif" alt="newinterface" width="400"/>
 

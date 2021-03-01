@@ -10,7 +10,7 @@ This is a touchscreen interface for a microwave, first showing an example of a b
 ## Problems with Current Microwave
 The microwave I've chosen to critique is an old one that came with a friend's apartment. In general, the microwave works well and there's not many problems relating to its main use case. However, the design is similar to many other microwaves in which there's functions that are never used.
 
-![image](badinterface.jpg)
+![image](badinterface.jpg=180x368)
 ![image](badinterface.gif)
 
 Why are there multiple options for auto cook, yet we still have options for frozen pizza, dinner plate, popcorn and beverages? Having both options is redundant and they should all either be buttons or available in the menu. When pressing these buttons, what does the number represent? Without any manual, there's no information as to what these numbers represent. Nor is there any indication of which functions use some sort of sensing technology to determine when the food is done. It is also quite annoying that the microwave starts automatically after entering these options, not giving much time to adjust the settings. Finally, once the user enters the time to cook, the power option is unavailable, but why this happens is not clear to the user.
